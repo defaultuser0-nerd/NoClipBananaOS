@@ -1,10 +1,10 @@
-# Up and Down
-haha up and down
+# No Clip
+haha noclip
 # How to use
-Left Trigger is down
-Right Trigger is up
+Y is NoClip
 # Requirments
 Utilla
+
 BananaOS
 # Credits
-Thanks to <color=purple>Veloc1ty</color> for teaching me ho to make this!
+Thanks to Veloc1ty for teaching me ho to make this!
