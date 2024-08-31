@@ -21,7 +21,7 @@ namespace NoClipBananaOS
         {
             var BuildMenuOptions = new StringBuilder();
             BuildMenuOptions.AppendLine("<color=black>========================</color>");
-            BuildMenuOptions.AppendLine("            <color=blue>NoClip</color>");
+            BuildMenuOptions.AppendLine("                <color=green>NoClip</color>");
             BuildMenuOptions.AppendLine("");
             BuildMenuOptions.AppendLine("             By: <color=blue>Estatic</color>");
             BuildMenuOptions.AppendLine("<color=black>========================</color>");
