@@ -12,7 +12,7 @@ namespace NoClipBananaOS
 {
     internal class WatchMenu:WatchPage
     {
-        public override string Title => "<color=green>Up</color> and <color=red>Down</color>";
+        public override string Title => "<color=green>NoClip</color>";
         public override bool DisplayOnMainMenu => true;
         public bool IsEnabled;
         public bool NoClipOn;
